@@ -98,7 +98,5 @@ class MerchantController extends Controller
             'message' => 'User successfully registered',
         ], 201);
     }
-    public function index(){
-        dd("Mustafa");
-    }
+
 }
